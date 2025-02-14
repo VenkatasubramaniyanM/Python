@@ -1,0 +1,193 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "75b23d17-b0e0-4e92-b28f-54c63ab820d5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "HOPE AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"HOPE AI\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "cbd3644e-7bd8-40e9-ad69-90ff2dd5e41e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter your institute name : HOPE AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=input(\"Enter your institute name :\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "b569f82d-77ea-4f08-89ac-69a0e2671e60",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter your name: Venkat\n",
+      "Enter your age: 37\n",
+      "Enter your school name: CBHSS\n",
+      "Enter your degree: MBA\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=input(\"Enter your name:\")\n",
+    "age=int(input(\"Enter your age:\"))\n",
+    "schoolname=input(\"Enter your school name:\")\n",
+    "degree=input(\"Enter your degree:\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "b2f7cf53-84b1-4618-9e0d-aad801c3288d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "a= 43\n",
+      "b= 34\n",
+      "add= 77\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=43\n",
+    "print(\"a=\",a)\n",
+    "b=34\n",
+    "print(\"b=\",b)\n",
+    "add=a+b\n",
+    "print(\"add=\",add)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "5e8fb503-6dee-44e6-903e-48745cf24f9d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "a= 43\n",
+      "b= 34\n",
+      "sub= 9\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=43\n",
+    "print(\"a=\",a)\n",
+    "b=34\n",
+    "print(\"b=\",b)\n",
+    "sub=a-b\n",
+    "print(\"sub=\",sub)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "5e1d1aaf-d982-4ae1-ad87-192f0448f79c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "a= 63\n",
+      "b= 97\n",
+      "mul= 6111\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=63\n",
+    "print(\"a=\",a)\n",
+    "b=97\n",
+    "print(\"b=\",b)\n",
+    "mul=a*b\n",
+    "print(\"mul=\",mul)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "dc6b7130-3df4-40ea-bcab-0aadd6a16fe6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "a= 76\n",
+      "b= 31\n",
+      "floatDiv= 2.4516129032258065\n"
+     ]
+    }
+   ],
+   "source": [
+    "a=76\n",
+    "print(\"a=\",a)\n",
+    "b=31\n",
+    "print(\"b=\",b)\n",
+    "floatDiv=a/b\n",
+    "print(\"floatDiv=\",floatDiv)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "405859e1-3d2f-46f8-9dbf-11a5298787dd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
